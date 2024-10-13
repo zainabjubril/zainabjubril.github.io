@@ -1,6 +1,4 @@
-[LinkedIn](www.linkedin.com/in/oluwadamilola-jubril-473ab42a1)
-
-[Gmail](zainabojubril@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/oluwadamilola-jubril-473ab42a1/)
 
 [Tableau](https://public.tableau.com/app/profile/oluwadamilola.zainab.jubril/vizzes)
 
