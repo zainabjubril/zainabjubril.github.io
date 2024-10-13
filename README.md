@@ -1,3 +1,8 @@
+[LinkedIn](www.linkedin.com/in/oluwadamilola-jubril-473ab42a1)
+[Gmail](zainabojubril@outlook.com)
+
+
+
 <br clear="both">
 
 <!-- <div align="center">
