@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/zainabjubril/zainabjubril.github.io/commit/b42b041c89a880a20c571481dea4e1b744347079#diff-eef8b9fd5d437dd991ce2695fcce6c416ea3068e5b448963f0a7c3cbd9ad98ebR1" target="_blank">
+  <a href="www.linkedin.com/in/oluwadamilola-jubril-473ab42a1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
