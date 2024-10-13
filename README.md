@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="/Users/admin/Downloads/Profile Picture.PNG"  />
+  <img height="150" src="Profile Picture.PNG"  />
 </div>
 
 
