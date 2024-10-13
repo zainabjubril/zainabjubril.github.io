@@ -7,5 +7,5 @@ Bachelor of Commerce in Economics
 Data Analyst @ The Southbridge Group
 
 ### Projects 
-Video Game Sales Analysis
-Customer Segmentation Project
+-Video Game Sales Analysis
+-Customer Segmentation Project
