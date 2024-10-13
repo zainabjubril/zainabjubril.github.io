@@ -2,6 +2,9 @@
 
 [Gmail](zainabojubril@outlook.com)
 
+[Tableau](https://public.tableau.com/app/profile/oluwadamilola.zainab.jubril/vizzes)
+
+[Kaggle](https://www.kaggle.com/zainabjubril)
 
 
 <br clear="both">
