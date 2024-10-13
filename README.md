@@ -8,4 +8,5 @@ Data Analyst @ The Southbridge Group
 
 ### Projects 
 -Video Game Sales Analysis
+
 -Customer Segmentation Project
