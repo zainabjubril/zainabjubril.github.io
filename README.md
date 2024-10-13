@@ -15,6 +15,7 @@
 
 
 <h1 align="center">Hey there 👋</h1>
+
 <br>
 
 
@@ -28,7 +29,7 @@
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 
 
