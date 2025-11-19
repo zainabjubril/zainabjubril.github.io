@@ -33,7 +33,7 @@
 
 
 <p align="left">I am Oluwadamilola Zainab Jubril<br><br>- 🔭 I’m currently working as  a Senior Data Analyst. <br><br>
-# Education<br>Bachelor of Commerce in Economics<br><br># Work Experience<br>Data Analyst @ The Southbridge Group<br><br># Projects <br>-Video Game Sales Analysis<br>-Customer Segmentation Project<br><br>#Data Analysis Tools<br>SQL, Python ( Pandas, NumPy, Matplotlib, Seaborn )<br><br>#Data Visualisation<br>Tableau, PowerBi, Matplotlib, Seaborn, Excel<br><br>#Statistical Analysis<br>Regression modeling, hypothesis testing, forecasting, A/B testing<br><br>#Machine Learning<br>Scikit-learn, basic clustering, and classification algorithms</p>
+-Education<br>Bachelor of Commerce in Economics<br><br>-Work Experience<br>Data Analyst @ The Southbridge Group<br><br>-Projects <br>-Video Game Sales Analysis<br>-Customer Segmentation Project<br><br>-Data Analysis Tools<br>SQL, Python ( Pandas, NumPy, Matplotlib, Seaborn )<br><br>-Data Visualisation<br>Tableau, PowerBi, Matplotlib, Seaborn, Excel<br><br>-Statistical Analysis<br>Regression modeling, hypothesis testing, forecasting, A/B testing<br><br>-Machine Learning<br>Scikit-learn, basic clustering, and classification algorithms</p>
 
 
 
