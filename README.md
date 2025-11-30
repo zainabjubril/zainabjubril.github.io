@@ -79,10 +79,11 @@ MySQL | Python | Pandas | NumPy
 
 📫 Contact Me
 
-Email: zainabojubril@outlook.com
+[Email](zainabojubril@outlook.com)
 
-LinkedIn: www.linkedin.com/in/oluwadamilola-jubril-473ab42a1
+[LinkedIn](www.linkedin.com/in/oluwadamilola-jubril-473ab42a1)
 
-GitHub: zainabjubril.github.io
+[GitHub](zainabjubril.github.io)
+
 <h3 align="left"></h3>
 
