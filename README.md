@@ -39,9 +39,11 @@ Bachelor of Commerce in Economics
 **Work Experience**  
 Data Analyst @ The Southbridge Group  
 
-**Projects**  
-• Video Game Sales Analysis  
-• Customer Segmentation Project  
+**Kaggle Projects**  
+• [Video Game Sales Analysis](https://www.kaggle.com/code/zainabjubril/video-game-sales-analysis-by-zainab-jubril)  
+• [SQL City Murder Mystery](https://www.kaggle.com/code/zainabjubril/sql-city-murder-mystery-by-zainab-jubril)
+-[Agriculture Crop Yield Data Analysis](https://www.kaggle.com/code/zainabjubril/notebook91f429093c-x-df-soil-type-temperatu)
+
 
 
 <!--p align="left">I am Oluwadamilola Zainab Jubril<br><br>- 🔭 I’m currently working as  a Senior Data Analyst. <br><br>
