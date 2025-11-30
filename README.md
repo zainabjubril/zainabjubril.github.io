@@ -81,7 +81,7 @@ MySQL | Python | Pandas | NumPy
 
 📫 Contact Me
 
-Email: zainabojubril@outlook.com
+Email: zainabojubril@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/oluwadamilola-jubril-473ab42a1/)
 
