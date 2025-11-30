@@ -35,11 +35,13 @@ I'm currently working as a **Senior Data Analyst**.
 
 **Education**  
 Bachelor of Commerce in Economics  
+University of South Africa
 
 **Work Experience**  
 Data Analyst @ The Southbridge Group  
 
 **Kaggle Projects**  
+
 • [Video Game Sales Analysis](https://www.kaggle.com/code/zainabjubril/video-game-sales-analysis-by-zainab-jubril)  
 
 • [SQL City Murder Mystery](https://www.kaggle.com/code/zainabjubril/sql-city-murder-mystery-by-zainab-jubril)
@@ -79,11 +81,11 @@ MySQL | Python | Pandas | NumPy
 
 📫 Contact Me
 
-[Email](zainabojubril@outlook.com)
+Email: zainabojubril@outlook.com
 
-[LinkedIn](www.linkedin.com/in/oluwadamilola-jubril-473ab42a1)
+[LinkedIn](https://www.linkedin.com/in/oluwadamilola-jubril-473ab42a1/)
 
-[GitHub](zainabjubril.github.io)
+
 
 <h3 align="left"></h3>
 
