@@ -41,8 +41,10 @@ Data Analyst @ The Southbridge Group
 
 **Kaggle Projects**  
 • [Video Game Sales Analysis](https://www.kaggle.com/code/zainabjubril/video-game-sales-analysis-by-zainab-jubril)  
+
 • [SQL City Murder Mystery](https://www.kaggle.com/code/zainabjubril/sql-city-murder-mystery-by-zainab-jubril)
--[Agriculture Crop Yield Data Analysis](https://www.kaggle.com/code/zainabjubril/notebook91f429093c-x-df-soil-type-temperatu)
+
+• [Agriculture Crop Yield Data Analysis](https://www.kaggle.com/code/zainabjubril/notebook91f429093c-x-df-soil-type-temperatu)
 
 
 
@@ -75,5 +77,12 @@ I solved a murder mystery case using SQL.
 MySQL | Python | Pandas | NumPy
 
 
+📫 Contact Me
+
+Email: zainabojubril@outlook.com
+
+LinkedIn: www.linkedin.com/in/oluwadamilola-jubril-473ab42a1
+
+GitHub: zainabjubril.github.io
 <h3 align="left"></h3>
 
