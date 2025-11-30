@@ -30,14 +30,31 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+I am **Oluwadamilola Zainab Jubril**  
+I'm currently working as a **Senior Data Analyst**.
+
+**Education**  
+Bachelor of Commerce in Economics  
+
+**Work Experience**  
+Data Analyst @ The Southbridge Group  
+
+**Projects**  
+• Video Game Sales Analysis  
+• Customer Segmentation Project  
 
 
-<p align="left">I am Oluwadamilola Zainab Jubril<br><br>- 🔭 I’m currently working as  a Senior Data Analyst. <br><br>
--Education<br>Bachelor of Commerce in Economics<br><br>-Work Experience<br>Data Analyst @ The Southbridge Group<br><br>-Projects <br>-Video Game Sales Analysis<br>-Customer Segmentation Project<br><br>-Data Analysis Tools<br>SQL, Python ( Pandas, NumPy, Matplotlib, Seaborn )<br><br>-Data Visualisation<br>Tableau, PowerBi, Matplotlib, Seaborn, Excel<br><br>-Statistical Analysis<br>Regression modeling, hypothesis testing, forecasting, A/B testing<br><br>-Machine Learning<br>Scikit-learn, basic clustering, and classification algorithms</p>
+<!--p align="left">I am Oluwadamilola Zainab Jubril<br><br>- 🔭 I’m currently working as  a Senior Data Analyst. <br><br>
+-Education<br>Bachelor of Commerce in Economics<br><br>-Work Experience<br>Data Analyst @ The Southbridge Group<br><br>-Projects <br>-Video Game Sales Analysis<br>-Customer Segmentation Project<br><br>-Data Analysis Tools<br>SQL, Python ( Pandas, NumPy, Matplotlib, Seaborn )<br><br>-Data Visualisation<br>Tableau, PowerBi, Matplotlib, Seaborn, Excel<br><br>-Statistical Analysis<br>Regression modeling, hypothesis testing, forecasting, A/B testing<br><br>-Machine Learning<br>Scikit-learn, basic clustering, and classification algorithms</p> -->
 
 ## Project 1: [Video Games Sales Analysis](https://github.com/zainabjubril/Video-Games-Sales-Analysis-Project)
 
+A data exploration project analyzing global video game sales from 1980–2020.
+Used Python (Pandas, Matplotlib) on [Kaggle](https://www.kaggle.com/code/zainabjubril/video-game-sales-analysis-by-zainab-jubril) and Microsoft Excel for Github, to uncover trends, top-selling genres, and regional performance.
+
 ## Project 2: [SQL City Murder Mystery](https://github.com/zainabjubril/SQL-City-Murder-Mystery)
+
+I solved a murder mystery case using SQL.
 
 <h3 align="left">🛠 Languages and tools</h3>
 
@@ -53,6 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="54" alt="numpy logo"  />
 </div>
 
+MySQL | Python | Pandas | NumPy
 
 
 <h3 align="left"></h3>
